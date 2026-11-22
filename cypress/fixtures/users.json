@@ -1,0 +1,24 @@
+{
+  "newUser": {
+    "name": "Lulu",
+    "password": "Test@12345",
+    "title": "Mrs",
+    "birth_date": "15",
+    "birth_month": "6",
+    "birth_year": "2000",
+    "firstname": "Lulu",
+    "lastname": "QA",
+    "company": "Tuwaiq Academy",
+    "address1": "King Fahd Road",
+    "address2": "Building 10",
+    "country": "India",
+    "state": "Riyadh Region",
+    "city": "Riyadh",
+    "zipcode": "12345",
+    "mobile_number": "0500000000"
+  },
+  "invalidUser": {
+    "email": "not.registered.user@testmail.com",
+    "password": "Wrong@999"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Lulu QA",
+  "email": "qa.lulu.contact@testmail.com",
+  "subject": "Test automation inquiry",
+  "message": "This message was sent by an automated Cypress test."
+}
