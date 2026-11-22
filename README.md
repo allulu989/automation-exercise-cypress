@@ -1,6 +1,6 @@
 # E2E Test Automation Framework – Automation Exercise (Cypress)
 
-![Cypress Tests](https://github.com/<your-username>/automation-exercise-cypress/actions/workflows/cypress.yml/badge.svg)
+![Cypress Tests](https://github.com/allulu989/automation-exercise-cypress/actions/workflows/cypress.yml/badge.svg)
 
 UI and API test automation for [automationexercise.com](https://automationexercise.com), a demo e-commerce site built for automation practice.
 Built as my project for the **Software Testing & Automation Bootcamp – Tuwaiq Academy**.
@@ -22,7 +22,7 @@ Built as my project for the **Software Testing & Automation Bootcamp – Tuwaiq 
 | Hybrid (API + UI) | `login-hybrid.cy.js`, `search-hybrid.cy.js` | TC_HYB_01 – 02 |
 
 All test cases are documented with ID, priority, steps and expected results, and every case maps to its Cypress spec file.
-**Test cases:** _add the link to your test-case sheet here_
+**Test cases:** [docs/test-cases.xlsx](docs/test-cases.xlsx)
 
 ## Tech stack
 
@@ -67,6 +67,8 @@ The HTML report is saved in `cypress/reports/index.html`.
 - **Unique data per run**: every user gets a timestamped email, and accounts are deleted after the test.
 - **Third-party ads blocked**: ad requests are stubbed so they don't cause flaky failures.
 
-## Demo
+## Test report
 
-_Add a GIF or short video of the test run here._
+41 / 41 tests passing:
+
+![Test report](docs/report.png)
